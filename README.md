@@ -1,0 +1,2 @@
+# autojs
+Autojs脚本
